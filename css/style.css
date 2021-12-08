@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+/* NAVBAR */
+#brand-logo{
+    height: 50px;
+}
+
+.navbar.navbar-expand-lg{
+    background-color: black ;
+    font-weight: bold;
+}
+
+.navbar.navbar-expand-lg a {
+    color: white;
+}
